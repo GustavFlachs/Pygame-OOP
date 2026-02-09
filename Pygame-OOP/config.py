@@ -3,3 +3,5 @@ SCREEN_WIDTH = 800
 
 SKY_BLUE = (135, 206, 235)
 FPS = 60
+
+platform_color = (0,0,255)
